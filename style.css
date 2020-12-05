@@ -1,0 +1,9 @@
+, ::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded;
+    }
+
+body {
+background-color: rgb(200, 0, 250) ;
+
+}
